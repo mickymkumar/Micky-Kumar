@@ -12,6 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickymkumar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickymkumar&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micky-kumar&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickymkumar&year=2021&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickymkumar/api?username=vzsky&year=2022&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickymkumar/api?username=vzsky&year=2023&show_icons=true&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mickymkumar)](https://github.com/mickymkumar/micky-kumar)
